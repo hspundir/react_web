@@ -38,7 +38,7 @@ export const App = () => {
       <BrowserRouter basename="/react_web/">
         <Header />
         <Routes>
-          <Route path="/react_web/" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/services" element={<Services />} />
           <Route path="/contact" element={<Contact />} />
