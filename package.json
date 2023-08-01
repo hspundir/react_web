@@ -1,6 +1,7 @@
 {
-  "name": "multipage_web",
-  "private": true,
+  "name": "react_web",
+  "homepage": "https://hspundir.github.io/react_web/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
