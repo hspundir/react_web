@@ -123,10 +123,7 @@ const GlobalStyle = createGlobalStyle`
     .grid-four-column {
       grid-template-columns: 1fr;
     }
-    .top-btn{
-        right: 0px;
-        left: 40%;
-    }    
+      
     }
 `;
 export default GlobalStyle;
